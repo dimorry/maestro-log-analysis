@@ -1,0 +1,13 @@
+[project]
+name = "maestro-log-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "duckdb>=1.2.2",
+    "pandas>=2.2.3",
+    "pysftp>=0.2.9",
+    "pytest>=8.3.5",
+    "pytz>=2025.2",
+]
